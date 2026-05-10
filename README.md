@@ -1,0 +1,1 @@
+this aims to test the capabillities of your printer and check for issues then fix the issues if you have any if you dont want word and running windows 11 here is a website to install wordpad go to https://win7games.com/#wordpad to reinstall wordpad
